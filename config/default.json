@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://lewis:fhcyiubzRh7Xyaa8@cluster0.intui.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
